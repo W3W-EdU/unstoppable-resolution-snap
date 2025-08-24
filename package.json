@@ -22,7 +22,7 @@
     "start": "mm-snap watch"
   },
   "dependencies": {
-    "@metamask/snaps-sdk": "^6.1.1",
+    "@metamask/snaps-sdk": "^6.24.0",
     "buffer": "^6.0.3"
   },
   "devDependencies": {
